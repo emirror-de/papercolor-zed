@@ -1,6 +1,6 @@
 id = "papercolor"
 name = "PaperColor"
-description = "A clean, light theme inspired by the texture of paper"
+description = "The original PaperColor Theme, inspired by Google Material Design, ported to Zed."
 version = "0.1.0"
 schema_version = 1
 authors = ["Lewin Probst <info@emirror.de>"]
