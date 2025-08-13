@@ -118,7 +118,7 @@ This theme is licensed under the MIT License. See the [LICENSE](LICENSE) file fo
 
 ## Acknowledgments
 
-- Inspired by the original PaperColor theme concept
+- Inspired by the original [PaperColor theme for Vim](https://github.com/NLKNguyen/papercolor-theme) by NLKNguyen
 - Built for Zed editor version 0.198.5 and later
 - Thanks to the Zed community for their excellent documentation and tools
 
