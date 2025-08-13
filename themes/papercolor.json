@@ -151,7 +151,7 @@
                         "font_weight": 700
                     },
                     "enum": {
-                        "color": "#d7875f"
+                        "color": "#5f8700"
                     },
                     "function": {
                         "color": "#005f87"
@@ -233,7 +233,7 @@
                         "font_weight": 700
                     },
                     "type": {
-                        "color": "#d75f00"
+                        "color": "#5f8700"
                     },
                     "variable": {
                         "color": "#444444"
@@ -242,7 +242,7 @@
                         "color": "#8700af"
                     },
                     "variant": {
-                        "color": "#d7875f"
+                        "color": "#444444"
                     }
                 },
                 "terminal.background": "#eeeeee",
