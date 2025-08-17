@@ -10,7 +10,7 @@
                 "background": "#eeeeee",
                 "foreground": "#444444",
                 "text": "#444444",
-                "text.muted": "#444444",
+                "text.muted": "#878787",
                 "text.placeholder": "#bcbcbc",
                 "text.disabled": "#bcbcbc",
                 "text.accent": "#005f87",
