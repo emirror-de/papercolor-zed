@@ -386,7 +386,7 @@
                 ],
                 "syntax": {
                     "attribute": {
-                        "color": "#ffaf5f"
+                        "color": "#d0d0d0"
                     },
                     "boolean": {
                         "color": "#ff5f5f"
@@ -506,7 +506,7 @@
                         "color": "#d787ff"
                     },
                     "variant": {
-                        "color": "#ffaf5f"
+                        "color": "#d0d0d0"
                     }
                 },
                 "terminal.background": "#1c1c1c",
