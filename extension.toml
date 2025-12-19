@@ -1,7 +1,7 @@
 id = "papercolor"
 name = "PaperColor"
 description = "The original PaperColor Theme, inspired by Google Material Design, ported to Zed."
-version = "0.1.0"
+version = "0.2.0"
 schema_version = 1
 authors = ["Lewin Probst <info@emirror.de>"]
 repository = "https://github.com/emirror-de/papercolor-zed"
