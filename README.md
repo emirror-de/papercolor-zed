@@ -1,6 +1,6 @@
 # PaperColor Theme for Zed
 
-A clean, elegant theme for the Zed editor inspired by the texture and feel of paper. This theme provides both light and dark variants with carefully chosen colors that are easy on the eyes and optimized for long coding sessions.
+A faithful port of the popular [PaperColor theme for Vim](https://github.com/NLKNguyen/papercolor-theme) to Zed editor. This clean, elegant theme provides both light and dark variants with carefully chosen colors that are easy on the eyes and optimized for long coding sessions.
 
 ## Features
 
@@ -87,16 +87,20 @@ The dark variant features:
 - **Background**: `#eeeeee` (Light gray, paper-like)
 - **Foreground**: `#444444` (Dark gray text)
 - **Accent**: `#005f87` (Deep blue)
-- **String**: `#008700` (Green)
-- **Keyword**: `#8700af` (Purple)
+- **String**: `#5f8700` (Olive green)
+- **Keyword**: `#005faf` (Blue)
+- **Number**: `#d75f00` (Orange)
+- **Type**: `#d70087` (Magenta)
 - **Comment**: `#878787` (Muted gray)
 
 ### Dark Theme Colors
 - **Background**: `#1c1c1c` (Dark gray)
 - **Foreground**: `#d0d0d0` (Light gray text)
-- **Accent**: `#87d7ff` (Light blue)
-- **String**: `#5fff5f` (Bright green)
-- **Keyword**: `#d787ff` (Light purple)
+- **Accent**: `#5fafd7` (Light blue)
+- **String**: `#d7af5f` (Golden yellow)
+- **Keyword**: `#00afaf` (Cyan)
+- **Number**: `#ff5faf` (Pink)
+- **Type**: `#afd700` (Lime green)
 - **Comment**: `#808080` (Muted gray)
 
 ## Contributing
@@ -118,7 +122,9 @@ This theme is licensed under the MIT License. See the [LICENSE](LICENSE) file fo
 
 ## Acknowledgments
 
-- Inspired by the original [PaperColor theme for Vim](https://github.com/NLKNguyen/papercolor-theme) by NLKNguyen
+- This is a faithful port of the original [PaperColor theme for Vim](https://github.com/NLKNguyen/papercolor-theme) by NLKNguyen
+- Colors and design philosophy maintained from the original Vim theme
+- Adapted for Zed's modern UI elements while preserving the core aesthetic
 - Built for Zed editor version 0.198.5 and later
 - Thanks to the Zed community for their excellent documentation and tools
 
