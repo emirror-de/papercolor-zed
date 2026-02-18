@@ -47,6 +47,18 @@
                 "icon.accent": "#005f87",
 
                 "status_bar.background": "#eeeeee",
+                "vim.mode.text": "#fafafa",
+                "vim.normal.foreground": "#fafafa",
+                "vim.visual.foreground": "#fafafa",
+                "vim.insert.foreground": "#fafafa",
+                "vim.replace.foreground": "#fafafa",
+                "vim.normal.background": "#005f87",
+                "vim.visual.background": "#d75f00",
+                "vim.visual_line.background": "#d75f00",
+                "vim.visual_block.background": "#005f87",
+                "vim.insert.background": "#008700",
+                "vim.replace.background": "#af0000",
+
                 "title_bar.background": "#eeeeee",
                 "title_bar.inactive_background": "#e4e4e4",
                 "toolbar.background": "#eeeeee",
@@ -265,8 +277,21 @@
                 "icon.accent": "#5fafd7",
 
                 "status_bar.background": "#1c1c1c",
+
+                "vim.mode.text": "#262626",
+                "vim.normal.foreground": "#262626",
+                "vim.visual.foreground": "#262626",
+                "vim.insert.foreground": "#262626",
+                "vim.replace.foreground": "#262626",
+                "vim.normal.background": "#5fafd7",
+                "vim.visual.background": "#ffaf00",
+                "vim.visual_line.background": "#ffaf00",
+                "vim.visual_block.background": "#5fafd7",
+                "vim.insert.background": "#5faf00",
+                "vim.replace.background": "#af005f",
+
                 "title_bar.background": "#1c1c1c",
-                "title_bar.inactive_background": "#121212",
+                "title_bar.inactive_background": "#262626",
                 "toolbar.background": "#1c1c1c",
 
                 "tab_bar.background": "#1c1c1c",
