@@ -394,7 +394,7 @@
                     {
                         "cursor": "#c6c6c6",
                         "background": "#c6c6c620",
-                        "selection": "#8787af"
+                        "selection": "#8787af40"
                     }
                 ],
 
