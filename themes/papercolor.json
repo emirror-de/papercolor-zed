@@ -63,9 +63,9 @@
                 "title_bar.inactive_background": "#e4e4e4",
                 "toolbar.background": "#eeeeee",
 
-                "tab_bar.background": "#eeeeee",
+                "tab_bar.background": "#e4e4e4",
                 "tab.inactive_background": "#e4e4e4",
-                "tab.active_background": "#eeeeee",
+                "tab.active_background": "#ffff5f80",
 
                 "search.match_background": "#ffff5f80",
 
@@ -249,7 +249,7 @@
                 "text": "#d0d0d0",
                 "text.muted": "#808080",
                 "text.placeholder": "#585858",
-                "text.disabled": "#585858",
+                "text.disabled": "#d0d0d0",
                 "text.accent": "#5fafd7",
 
                 "border": "#303030",
@@ -298,11 +298,12 @@
 
                 "title_bar.background": "#1c1c1c",
                 "title_bar.inactive_background": "#262626",
+                "title_bar.inactive_foreground": "#d0d0d0",
                 "toolbar.background": "#1c1c1c",
 
-                "tab_bar.background": "#1c1c1c",
+                "tab_bar.background": "#262626",
                 "tab.inactive_background": "#262626",
-                "tab.active_background": "#1c1c1c",
+                "tab.active_background": "#00afaf",
 
                 "search.match_background": "#00875f80",
 
