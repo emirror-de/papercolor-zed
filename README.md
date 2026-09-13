@@ -96,7 +96,7 @@ The dark variant features:
 ### Dark Theme Colors
 - **Background**: `#1c1c1c` (Dark gray)
 - **Foreground**: `#d0d0d0` (Light gray text)
-- **Accent**: `#5fafd7` (Light blue)
+- **Accent**: `#5f8787` (Muted teal)
 - **String**: `#d7af5f` (Golden yellow)
 - **Keyword**: `#00afaf` (Cyan)
 - **Number**: `#ff5faf` (Pink)
